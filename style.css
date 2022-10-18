@@ -1,0 +1,62 @@
+body {
+	background-image: url(MaterialeEsercizioLim/background.jpg)	;
+	background-size: cover;
+	background-repeat: no-repeat;
+	
+}
+
+.container {
+	background: rgba(0,0,0,0.3);
+	margin: 70px;
+	margin-top: 40px;
+}
+
+header {
+	text-align: center;
+	margin-top: 50px;
+}
+
+nav {
+	text-align: center;
+	background: green;
+	margin: 70px;
+	margin-top: 20px;
+	margin-bottom: 20px;
+	padding: 5px;
+}
+
+main {
+	margin: 75px;
+	margin-top: 20px;
+}
+
+.motto {
+	color: green;
+	font-family: "Roboto", sans-serif;
+	font-size: 30px;
+	font-weight: bold;
+	font-style: italic;
+	margin-bottom: 1px;
+	
+}
+
+.name {
+	display: inline-block;
+	font-size: 30px;
+	font-family: "Roboto", sans-serif;
+	margin-bottom: 10px;
+	font-weight: bold;
+	color: white;
+}
+
+.inf {
+	font-family: "Roboto", sans-serif;
+	font-size: 20px;
+	color: white;
+}
+
+.progress-bar-fill {
+	display: block;
+	height: 20px;
+	border-radius: 3px;
+}
